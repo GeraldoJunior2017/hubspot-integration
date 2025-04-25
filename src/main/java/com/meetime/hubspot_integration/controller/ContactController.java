@@ -1,4 +1,3 @@
-// src/main/java/com/meetime/hubspot_integration/controller/ContactController.java
 package com.meetime.hubspot_integration.controller;
 
 import com.meetime.hubspot_integration.dto.ContactRequest;

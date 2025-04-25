@@ -1,4 +1,3 @@
-// src/main/java/com/meetime/hubspot_integration/controller/WebhookController.java
 package com.meetime.hubspot_integration.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

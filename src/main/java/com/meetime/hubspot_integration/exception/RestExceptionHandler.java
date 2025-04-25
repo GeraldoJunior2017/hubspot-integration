@@ -1,4 +1,3 @@
-// src/main/java/com/meetime/hubspot_integration/exception/RestExceptionHandler.java
 package com.meetime.hubspot_integration.exception;
 
 import org.springframework.http.HttpStatus;
